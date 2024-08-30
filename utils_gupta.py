@@ -1,11 +1,8 @@
-''' ITERATION 4
+''' ITERATION 5
 
 Module: Datapulse Analytics - Insight at your fingertips.
 
-In this iteration, we will import the statistics module and try some basic statistics using Python.
-The statistics module offers methods to calculate mean and standard deviation.
-- min() is a built-in function to find the smallest value passed in
-- max() is a built-in function to find the largest value passed in '''
+In this iteration, enhance the byline to include key statistics. '''
 
 
 
